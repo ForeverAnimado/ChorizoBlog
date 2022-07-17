@@ -30,6 +30,11 @@ body{
     background: rgb(243, 243, 243);
 }
 
+a{
+    padding: 20px;
+    text-align: center;
+}
+
 .header{
     background-color: #0769e9;
     height: 80px;
